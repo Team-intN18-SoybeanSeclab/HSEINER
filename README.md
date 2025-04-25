@@ -1,6 +1,6 @@
 # HSEINER - JsFinder增强版
 
-一个强大的JavaScript文件分析工具，用于发现网站中的敏感信息、API端点和其他重要资源。
+<img src="https://socialify.git.ci/Team-intN18-SoybeanSeclab/HSEINER/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="HSEINER" width="640" height="320" />
 
 ## 功能特点
 
